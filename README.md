@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Farzad 👋
 
-<!--
-**rashidi-farzad/rashidi-farzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer in Progress
 
-Here are some ideas to get you started:
+I'm focused on building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm strengthening my skills in JavaScript, working on practical projects, and preparing to specialize in React and TypeScript.
+
+### 🛠️ Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub
+- **Currently Learning:** Advanced JavaScript, REST APIs, and Back-End Integration
+- **Next Goals:** React and TypeScript
+
+### 🚀 What I'm Working On
+
+- Building practical web projects with JavaScript
+- Integrating front-end applications with REST APIs
+- Improving my problem-solving and clean code skills
+
+### 📫 Connect With Me
+
+- GitHub: [@YOUR_USERNAME](https://github.com/rashidi-farzad)
+
+---
+
+*Always learning, building, and improving.*
