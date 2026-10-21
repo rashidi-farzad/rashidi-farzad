@@ -1,28 +1,18 @@
 # Hi, I'm Farzad 👋
 
-### Front-End Developer in Progress
+💻 **Front-End Developer in Progress**
 
-I'm focused on building modern, responsive, and user-friendly web applications.
-
-Currently, I'm strengthening my skills in JavaScript, working on practical projects, and preparing to specialize in React and TypeScript.
+Passionate about building modern and user-friendly web applications.
 
 ### 🛠️ Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub
-- **Currently Learning:** Advanced JavaScript, REST APIs, and Back-End Integration
-- **Next Goals:** React and TypeScript
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🚀 What I'm Working On
+🌱 Currently learning **React** and improving my JavaScript skills.
 
-- Building practical web projects with JavaScript
-- Integrating front-end applications with REST APIs
-- Improving my problem-solving and clean code skills
+📫 [LinkedIn](YOUR_LINKEDIN_URL)
 
-### 📫 Connect With Me
-
-- GitHub: https://github.com/rashidi-farzad
-
----
-
-*Always learning, building, and improving.*
