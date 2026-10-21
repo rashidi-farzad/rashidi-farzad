@@ -21,7 +21,7 @@ Currently, I'm strengthening my skills in JavaScript, working on practical proje
 
 ### 📫 Connect With Me
 
-- GitHub: [@YOUR_USERNAME](https://github.com/rashidi-farzad)
+- GitHub: https://github.com/rashidi-farzad
 
 ---
 
