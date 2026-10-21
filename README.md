@@ -1,18 +1,14 @@
-# Hi, I'm Farzad 👋
+### Hi there 👋
 
-💻 **Front-End Developer in Progress**
+#### 💻 Front-End Developer in Progress
 
-Passionate about building modern and user-friendly web applications.
+- 🌱 Currently learning JavaScript and building real-world projects.
+- ⚡ Interested in creating modern and user-friendly web applications.
 
-### 🛠️ Tech Stack
+### 🛠️ Skills
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Skills" />
 
-🌱 Currently learning **React** and improving my JavaScript skills.
+### 🔗 Connect
 
-📫 [LinkedIn](YOUR_LINKEDIN_URL)
-
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/YOUR_USERNAME) · [LinkedIn](YOUR_LINKEDIN_URL)
