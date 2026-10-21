@@ -7,8 +7,8 @@
 
 ### 🛠️ Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" alt="Skills" />
 
 ### 🔗 Connect
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/YOUR_USERNAME) · [LinkedIn](YOUR_LINKEDIN_URL)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/rashidi-farzad)
