@@ -5,7 +5,7 @@
 - 🌱 Currently learning JavaScript and building real-world projects.
 - ⚡ Interested in creating modern and user-friendly web applications.
 
-### 🛠️ Skills
+### 🛠️ My Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Tech Stack" />
