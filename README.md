@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 💻 Front-End Developer in Progress
+#### 💻 Front-End Developer
 
 - 🌱 Currently learning JavaScript and building real-world projects.
 - ⚡ Interested in creating modern and user-friendly web applications.
